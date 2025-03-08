@@ -1,7 +1,7 @@
 # Amazing Music Player  
 *A minimalist music player focused on beautiful design and local file management, built with QML & Qt Quick*
 
-![GitHub](https://img.shields.io/badge/Qt-6.8.1-blue) 
+![GitHub](https://img.shields.io/badge/Qt-6.8-blue) 
 ![GitHub](https://img.shields.io/badge/CMake-3.20-orange) 
 ![GitHub](https://img.shields.io/badge/QML-green)
 
